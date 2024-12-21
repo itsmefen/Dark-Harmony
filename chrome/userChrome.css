@@ -51,21 +51,6 @@
   }
 }
 
-/* manipulating the overall sidebar */
-#navigator-toolbox {
-  outline: 0px red solid;
-  margin-inline: 1px !important;
-  padding-inline: 4px !important;
-}
-
-/* manipulating the element under urlbar  */
-#titlebar {
-  outline: 0px solid purple !important;
-  padding: 0px !important;
-  margin-inline: 0px !important;
-}
-
-
 /*------------ BOOKMARKS ------------*/
 #personal-bookmarks toolbarbutton.bookmark-item {
   background-color: var(--zen-colors-tertiary) !important;
